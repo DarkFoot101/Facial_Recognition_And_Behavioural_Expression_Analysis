@@ -22,4 +22,6 @@ Detects unidentified objects (e.g., mobile phones, tablets) and marks them in re
 
 Provides a visual interface for easy proctor decision-making.
 
+I have done a complete research about on AI Pioneering Ethical, Analytical and Real time Emotional Recognition in Dynamic Human Expressions, which has been published in IEEE in the journal of ICCCDSAI 2025. I have included my extended research on this topic and project which i had later upscaled it.
+
 ![image](https://github.com/user-attachments/assets/f624ddf9-fc5a-404a-bf23-8ea0a455eb18)
